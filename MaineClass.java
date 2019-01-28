@@ -1,4 +1,4 @@
-public class MaineClass extends Thread {
+public class MaineClass{
 
     public static void main(String[] args) {
         long timeStart = System.currentTimeMillis(); // время старата главного потока
